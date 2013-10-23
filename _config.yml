@@ -1,13 +1,13 @@
-title:            Mu-An Chiou - @muanchiou || @muan
-url:              http://muan.co
+title:            Close Encouters of an Intimate Kind
+url:              http://backinhorn.github.io
 permalink:        pretty
 pygments:         true
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
-google_analytics: UA-21332781-7
+google_analytics: 
 timezone:         Europe/London
-paginate: 5
+paginate: 10
 links: 
   - name:         About
     url:          /about
